@@ -1,0 +1,1 @@
+alert("Hello, a test message");
